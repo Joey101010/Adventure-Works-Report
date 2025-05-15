@@ -7,7 +7,7 @@ This Power BI Report is based on a dataset containing sales, products and custom
 - Interactive map visual showcasing sales by country.
 - Designed usining Power BI, calculated measures and visuals.
 
-#About this project
+#About
 -This was my first project and it was a follow-along course. Although I had a lot of help interms of the lessons and going along with the instructors, we all have to start somewhere and this is my starting point.
 
 #File Info
