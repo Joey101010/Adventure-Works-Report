@@ -1,5 +1,5 @@
 # Adventure-Works-Report
-This Power BI Report is based on a dataset containing sales, products, stores and customer information. I created this report using **Dax**,**Power BI visuals** and **Power Query**.
+This Power BI Report is based on a dataset containing sales, products and customer information. I created this report using **Dax**,**Power BI visuals** and **Power Query**.
 
 #Key Features
 - Showcase the top 30 products by sales performance.
