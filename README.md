@@ -2,7 +2,7 @@
 This Power BI Report is based on a dataset containing sales, products and customer information. I created this report using **Dax**,**Power BI visuals** and **Power Query**.
 
 #Key Features
-- Showcase the top 30 products by sales performance.
+- Showcase the top 10 products by sales performance.
 - Customer insights and breakdowns.
 - Interactive map visual showcasing sales by country.
 - Designed usining Power BI, calculated measures and visuals.
