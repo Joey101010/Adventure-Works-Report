@@ -8,7 +8,7 @@ This Power BI Report is based on a dataset containing sales, products and custom
 - Designed usining Power BI, calculated measures and visuals.
 
 #About this project
-This was my first project and it was a follow-along course. Although I had a lot of help interms of the lessons and going along with the instructors, we all have to start somewhere and this is my starting point.
+-This was my first project and it was a follow-along course. Although I had a lot of help interms of the lessons and going along with the instructors, we all have to start somewhere and this is my starting point.
 
 #File Info
 - Format: .pibx
